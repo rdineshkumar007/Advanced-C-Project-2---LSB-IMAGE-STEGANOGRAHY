@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1755946125 source:c:\users\rdine\documents\.emertxe\emertxe projects\address book\address2\stego2\project2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1756819059 source:c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project2\encode.c
+	<stdio.h>
+	"encode.h"
+	"types.h"
+	"common.h"
+	<string.h>
+	<unistd.h>
+
+1756817695 c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project2\encode.h
+	<stdio.h>
+	"types.h"
+
+1756817696 c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project2\types.h
+
+1756817696 source:c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project2\main.c
+	<stdio.h>
+	"encode.h"
+	"decode.h"
+	"types.h"
+	<unistd.h>
+	<string.h>
+
+1756817695 c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project2\common.h
+
+1756819059 source:c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project2\decode.c
+	<stdio.h>
+	"decode.h"
+	"types.h"
+	"common.h"
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+
+1756818611 c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project2\decode.h
+	<stdio.h>
+	"types.h"
+	"common.h"
+
+1756819392 source:c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project 2 - lsb image steganography (dineshkumar r - 25012b_058)\decode.c
+	<stdio.h>
+	"decode.h"
+	"types.h"
+	"common.h"
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+
+1756819392 c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project 2 - lsb image steganography (dineshkumar r - 25012b_058)\decode.h
+	<stdio.h>
+	"types.h"
+	"common.h"
+
+1756819392 c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project 2 - lsb image steganography (dineshkumar r - 25012b_058)\types.h
+
+1756819392 c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project 2 - lsb image steganography (dineshkumar r - 25012b_058)\common.h
+
+1756819392 source:c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project 2 - lsb image steganography (dineshkumar r - 25012b_058)\encode.c
+	<stdio.h>
+	"encode.h"
+	"types.h"
+	"common.h"
+	<string.h>
+	<unistd.h>
+
+1756819392 c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project 2 - lsb image steganography (dineshkumar r - 25012b_058)\encode.h
+	<stdio.h>
+	"types.h"
+
+1756819392 source:c:\users\rdine\documents\.emertxe\emertxe projects\steganography - project 2\project 2 - lsb image steganography (dineshkumar r - 25012b_058)\main.c
+	<stdio.h>
+	"encode.h"
+	"decode.h"
+	"types.h"
+	<unistd.h>
+	<string.h>
+
