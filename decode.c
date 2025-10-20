@@ -98,7 +98,7 @@ Status decode_magic_string(const char *magic_string, DecodeInfo *decInfo) // dec
 
     for(int i =0; i<magic_len; i++)
     {
-        if (fread(imageBufferq, 8, 1, decInfo->fptr_stego_image) != 1)
+        if (fread(imageBuffer, 8, 1, decInfo->fptr_stego_image) != 1)
         {
             printf("error! magic string.\n");
             return e_failure;
